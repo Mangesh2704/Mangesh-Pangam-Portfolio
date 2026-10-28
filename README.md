@@ -6,9 +6,9 @@
 
 A modern, responsive portfolio showcasing my projects, technical skills, experience, education, and certifications — wrapped in a neon cyberpunk interface.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://github.com/Mangesh2704)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://mangesh2704.github.io/Mangesh-Pangam-Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Mangesh2704-181717?style=for-the-badge&logo=github)](https://github.com/Mangesh2704)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mangesh-pangam-9a8097281/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mangesh-pangam/)
 
 </div>
 
