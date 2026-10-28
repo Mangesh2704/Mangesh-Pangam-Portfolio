@@ -55,7 +55,7 @@ The website uses a dark cyberpunk-inspired design with glowing cyan, purple, and
 
 ```text
 portfolio/
-├── portfolio.html
+├── index.html
 ├── assets/
 │   ├── project1-pss.png
 │   ├── ...
@@ -63,7 +63,7 @@ portfolio/
 └── README.md
 ```
 
-Keep the asset filenames and folder paths consistent with the references in `portfolio.html`. If you organize the files differently, update the corresponding paths in the HTML.
+Keep the asset filenames and folder paths consistent with the references in `index.html`. If you organize the files differently, update the corresponding paths in the HTML.
 
 ## 💻 Run Locally
 
@@ -79,8 +79,8 @@ Keep the asset filenames and folder paths consistent with the references in `por
    cd REPOSITORY-NAME
    ```
 
-3. Make sure `portfolio.html` and its referenced `assets/` files are in the expected locations.
-4. Open `portfolio.html` in your browser.
+3. Make sure `index.html` and its referenced `assets/` files are in the expected locations.
+4. Open `index.html` in your browser.
 
 For a local development server, you can use the **Live Server** extension in Visual Studio Code and select **Open with Live Server**.
 
@@ -88,11 +88,11 @@ For a local development server, you can use the **Live Server** extension in Vis
 
 ## 🌐 Deploy on GitHub Pages
 
-1. Push `portfolio.html`, `assets/`, and `README.md` to your GitHub repository.
+1. Push `index.html`, `assets/`, and `README.md` to your GitHub repository.
 2. In the repository, open **Settings → Pages**.
 3. Under **Build and deployment**, choose **Deploy from a branch**.
 4. Select your publishing branch (usually `main`) and the root folder (`/`), then save.
-5. If you want the website to load at the root URL, rename `portfolio.html` to `index.html` and ensure all asset paths still work.
+5. If you want the website to load at the root URL, rename `index.html` to `index.html` and ensure all asset paths still work.
 6. Wait for GitHub Pages to finish publishing, then open the URL shown in the Pages settings.
 
 ## 🧩 Personalization
